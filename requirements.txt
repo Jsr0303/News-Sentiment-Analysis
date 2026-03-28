@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+transformers
+vaderSentiment
+plotly
+wordcloud
+matplotlib
+scikit-learn
+pycountry
+newsapi-python
+torch
+scipy
+sentencepiece
